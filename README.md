@@ -15,6 +15,8 @@ Prazer, eu sou Barbosa
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ally-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
+ <img align="center" alt="Ally-SQL" height="30" width="40" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />
+</div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://http2.mlstatic.com/D_NQ_NP_796604-MLB50852205111_072022-V.jpg?width=676&height=676">
   
  
